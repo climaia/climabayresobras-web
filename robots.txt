@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://climabayresobras.com.ar/sitemap.xml
